@@ -12,6 +12,10 @@ Application developed using React. Tracks weather of each city in the world.
 
 ![image](https://user-images.githubusercontent.com/45028951/111039141-88aa9f00-8452-11eb-83da-b4c90384e989.png)
 
+## Live Demo
+
+[Click Here](https://weather-app-81180.web.app/)
+
 ## To Run this App
 
 Install node_modules
